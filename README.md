@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ------------------------------------- 
+| PlaYInG RAdlIbs iS LIke cONcrEteInG |
+| wItH STrinGS! NonSenSe!             |
+ ------------------------------------- 
+  \\
+   \\    *
+          *
+     ----//-------
+     \..C/--..--/ \   `A
+      (@ )  ( @) \  \// |w
+       \          \  \---/
+        HGGGGGGG    \    /`
+        V `---------`--'
+            <<    <<
+           ###   ###
