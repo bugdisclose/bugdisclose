@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**bugdisclose/bugdisclose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **bugdisclose** I break the stuffs let's know more about me :P 
 
-Here are some ideas to get you started:
+Here we go:
 
 - 🔭 I’m currently working on Some security stuffs will disclose soon
 - 🌱 I’m currently learning Thick Client Application Pentesting
