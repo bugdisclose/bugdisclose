@@ -5,11 +5,10 @@
 _Trying to break into internet everyday :P_
 
 - 🔭 Currently automating boring security stuffs👨‍💻😉
+
 - 🌱 Learning Block Chain, Mobile App, Vehicle Security.
-- 👯 Looking to collaborate on cool info-security projects.
+
 - 💬 Ask me about memes😂
-- 📫 How to reach me: 🛺 🛩
-- 😄 Pronouns my name: Whatever you can.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&count_private=true&&hide=contribs&theme=cobalt" width="380">
 
