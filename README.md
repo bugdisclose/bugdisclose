@@ -18,3 +18,5 @@ _Trying to break into internet everyday_ 👾
 <a href="https://www.linkedin.com/in/satyendra-shrivastava/">
   <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose)<a href="https://twitter.com/itsgeekymonk"> 
