@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&count_private=true&&hide=contribs&theme=cobalt" width="380">
 
-_Trying to break into internet everyday_ 👾
+A little about me: _Trying to break into internet everyday_ 👾
 
 - 👨‍💻 Security Engineer by profession - Hacker by passion👨‍🎤
 - 🔭 Currently automating boring security stuff😉
