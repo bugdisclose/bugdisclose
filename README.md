@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=This+is+Satyendra;An+AppSec+Ninja+🥷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&lines=This+is+Satyendra;An+AppSec+Ninja+🥷)](https://git.io/typing-svg)
 
 _Trying to break into internet everyday :P_
 
