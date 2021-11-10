@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=This+is+Satyendra;An+AppSec+Ninja🥷🏻)](https://git.io/typing-svg)
 
-```Trying to break into internet everyday :P```
+_Trying to break into internet everyday :P_
 
 - 🔭 Currently automating boring security stuffs👨‍💻😉
 - 🌱 Learning Block Chain, Mobile App, Vehicle Security.
-- 👯 Looking to collaborate on cool any security related projects.
+- 👯 Looking to collaborate on cool info-security projects.
 - 💬 Ask me about memes😂
 - 📫 How to reach me: 🛺 🛩
 - 😄 Pronouns my name: Whatever you can.
