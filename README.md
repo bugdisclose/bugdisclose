@@ -19,5 +19,7 @@ _Trying to break into internet everyday_ 👾
   <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=655BE1&right_color=green)<a href="https://twitter.com/itsgeekymonk"> 
+![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=655BE1&right_color=green)
+
+_Hacking involves a different way of looking at problems that no one's thought of._
 
