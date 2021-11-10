@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-This is **bugdisclose** I always try to break whatever I get on internet :P 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=This+is+Satyendra;An+AppSec+Ninja🥷🏻)](https://git.io/typing-svg)
 
-Here we go:
+```Trying to break into internet everyday :P```
 
-- 🔭 Currently working on few security stuffs will disclose soon
+- 🔭 Currently automating boring security stuffs👨‍💻😉
 - 🌱 Learning Block Chain, Mobile App, Vehicle Security.
 - 👯 Looking to collaborate on cool any security related projects.
-- 💬 Ask me about memes.
+- 💬 Ask me about memes😂
 - 📫 How to reach me: 🛺 🛩
 - 😄 Pronouns my name: Whatever you can.
 
