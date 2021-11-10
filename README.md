@@ -12,3 +12,6 @@
 - 😄 Pronouns my name: Whatever you can.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&theme=gotham" width="380">
+
+<a href="https://twitter.com/itsgeekymonk">
+    <img align='center' alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/itsgeekymonk?color=1d9ff7&labelColor=1d9ff7&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
