@@ -10,9 +10,11 @@ _Trying to break into internet everyday_ 👾
 - 🌱 Learning Block Chain, Mobile App and Vehicle Security📚
 - 💬 Ask me about github tools and memes😂
 
+---
+
 <a href="https://twitter.com/itsgeekymonk">
-  <img align="left" alt="Satyendra's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Satyendra's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/satyendra-shrivastava/">
-  <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
