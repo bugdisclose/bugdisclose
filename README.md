@@ -1,5 +1,5 @@
 ### Hi there 👋
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=000000&lines=This+is+Satyendra;An+AppSec+Ninja+🥷)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=000000&lines=This+is+Satyendra;An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&count_private=true&&hide=contribs&theme=cobalt" width="380">
 
