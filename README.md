@@ -19,4 +19,4 @@ _Trying to break into internet everyday_ 👾
   <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose)<a href="https://twitter.com/itsgeekymonk"> 
+![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=orange&right_color=green)<a href="https://twitter.com/itsgeekymonk"> 
