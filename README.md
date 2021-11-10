@@ -7,7 +7,7 @@ _Trying to break into internet everyday_ 👾
 
 - 👨‍💻 Security Engineer by profession - Hacker by passion👨‍🎤
 - 🔭 Currently automating boring security stuff😉
-- 🌱 Learning Block Chain, Mobile App, Vehicle Security📚
+- 🌱 Learning Block Chain, Mobile App and Vehicle Security📚
 - 💬 Ask me about github tools and memes😂
 
 <a href="https://twitter.com/itsgeekymonk">
