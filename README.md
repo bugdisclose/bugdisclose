@@ -10,7 +10,7 @@ A little about me: _Trying to break into internet everyday_ 👾
 - 🌱 Learning Block Chain, Mobile App and Vehicle Security📚
 - 💬 Ask me about github tools and memes😂
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a href="https://twitter.com/itsgeekymonk">
   <img align="left" alt="Satyendra's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
