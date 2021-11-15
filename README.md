@@ -1,9 +1,9 @@
-### Hi, This is Satyendra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi, I'm Satyendra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&count_private=true&&hide=contribs&theme=cobalt" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bugdisclose&show_icons=true&count_private=true&&hide=contribs&theme=cobalt" width="380" height="200">
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me: _Trying to break into internet everyday_ 👾
+###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me... _Trying to break into internet everyday_ 👾
 
 - 👨‍💻 Security Engineer by profession - Hacker by passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 Currently automating boring security stuff😉
