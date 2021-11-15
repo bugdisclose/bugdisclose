@@ -1,10 +1,11 @@
 ### Hi, I'm Satyendra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="380" height="200">
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me... _Trying to break into internet everyday_ 👾
 
-- 👨‍💻 Security Engineer by profession - Hacker by passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👨‍💻 Security Engineer by profession - Hacker by passion 🥷
 - 🔭 Currently automating boring security stuff😉
 - 🌱 Learning Block Chain, Mobile App and Vehicle Security📚
 - 💬 Ask me about github tools and memes😂
@@ -21,4 +22,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=655BE1&right_color=green)
 
 _Hacking involves a different way of looking at problems that no one's thought of._ 
+
 
