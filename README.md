@@ -1,5 +1,5 @@
 ### Hi, I'm Satyendra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=20&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
 <img align='right' src="https://www.pngkey.com/png/full/259-2598641_panda-ninja-panzo-messages-sticker-0-panda-ninja.png" width="180">
 
