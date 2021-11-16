@@ -1,7 +1,7 @@
 ### Hi, I'm Satyendra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="380" height="200">
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" height="170">
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me... _Trying to break into internet everyday_ 👾
 
