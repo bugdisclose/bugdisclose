@@ -15,8 +15,13 @@
 <a href="https://twitter.com/itsgeekymonk">
   <img align="left" alt="Satyendra's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+
 <a href="https://www.linkedin.com/in/satyendra-shrivastava/">
   <img align="left" alt="Satyendra's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://bugdisclose.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bugdisclose" width="22" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=655BE1&right_color=green)
