@@ -21,8 +21,8 @@
  +-------------------+
  |    Skills Menu    |
  +-------------------+
- | 1. Ethical Hacking|
- | 2. AppSec         |
+ | 1. Application Sec|
+ | 2. AI/ML Security |
  | 3. Automation     |
  | 4. Reverse Eng.   |
  | 5. Mobile Security|
@@ -32,8 +32,6 @@
 ## 🚀 Current Mission Objectives:
 
 1. 🔓 **AppSec Ninja Skills**:
-   - Fortifying digital fortresses
-   - Ethical hacking adventures
    - Building unbreakable code (or so we hope!)
 
 2. 🤖 **Automation Wizardry**:
