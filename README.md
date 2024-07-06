@@ -15,20 +15,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## 🛠 Tech Stack & Tools
-
-```ascii
- +-------------------+
- |    Skills Menu    |
- +-------------------+
- | 1. Application Sec|
- | 2. AI/ML Security |
- | 3. Automation     |
- | 4. Reverse Eng.   |
- | 5. Mobile Security|
- +-------------------+
-```
-
 ## 🚀 Current Mission Objectives:
 
 1. 🔓 **AppSec Ninja Skills**:
@@ -44,15 +30,10 @@
    - 📱 Mobile App Security: Because phones need love too
    - 🚗 Vehicle Security: Making sure your car doesn't drive itself to the hacker's house
 
-## 💬 Let's Connect!
-
-<a href="https://bugdisclose.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bugdisclose" width="22px" /></a>
-
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.bugdisclose&left_color=655BE1&right_color=green)
 
-> *"Hacking involves a different way of looking at problems that no one's thought of."*
+*"Hacking involves a different way of looking at problems that no one's thought of."*
 
 ```ascii
         \   ^__^
@@ -61,5 +42,6 @@
                 ||----w |
                 ||     ||
 ```
-
+<a href="https://bugdisclose.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bugdisclose" width="22px" /></a>
 Remember: Stay curious, keep learning, and always use strong passwords! 🔒
+
