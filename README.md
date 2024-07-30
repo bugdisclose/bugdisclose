@@ -45,3 +45,6 @@
 <a href="https://bugdisclose.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bugdisclose" width="22px" /></a>
 Remember: Stay curious, keep learning, and always use strong passwords! 🔒
 
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" alt="snake"/>
+</p>
