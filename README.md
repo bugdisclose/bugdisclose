@@ -6,6 +6,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me... 
 
+Author: https://github.com/AI-Security-Research-Group/CodeRAG
+
 *Trying to break into internet everyday* 👾
 
 - 👨‍💻 Security Engineer by profession - Hacker by passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
