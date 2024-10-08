@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&color=000000&lines=An+AppSec+Ninja+🥷)](https://github.com/bugdisclose/)
 
-<img align='right' src="https://www.pngkey.com/png/full/259-2598641_panda-ninja-panzo-messages-sticker-0-panda-ninja.png" width="180">
+<img align='right' src="https://st.depositphotos.com/9251776/53862/v/450/depositphotos_538623820-stock-illustration-snooping-cute-ninja-isolated-on.jpg" width="250">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me... 
 
