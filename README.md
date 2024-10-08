@@ -11,8 +11,8 @@
 
 - 👨‍💻 Security Engineer by profession - Hacker by passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 Currently automating boring security stuff 😉
-- 🌱 Learning Reverse engineering, Mobile App and Vehicle Security 📚
-- 💬 Ask me about opensource tools and memes 😂
+- 🌱 Learning AI and AI Security | Reverse engineering 📚
+- 💬 Ask me about opensource tools
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -28,8 +28,7 @@
 
 3. 📚 **Learning Quest**:
    - 🔍 Reverse Engineering: Taking things apart to see how they tick
-   - 📱 Mobile App Security: Because phones need love too
-   - 🚗 Vehicle Security: Making sure your car doesn't drive itself to the hacker's house
+   - 📱 AI Security: Because AI is interesting
 
 <br>
 
