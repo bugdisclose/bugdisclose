@@ -46,5 +46,5 @@
 Remember: Stay curious, keep learning, and always use strong passwords! 🔒
 
 <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/ZephrFish/ZephrFish/output/pacman-contribution-graph.svg" alt="snake"/>
 </p>
